@@ -1,5 +1,5 @@
 package LC;
-import java.util.HashMap
+import java.util.HashMap;
 public class FindDifference {
         public char findTheDifference(String s, String t) {
             HashMap<Character,Integer> counts = new HashMap<>();
